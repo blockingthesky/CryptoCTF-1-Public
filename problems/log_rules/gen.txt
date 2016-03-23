@@ -1,0 +1,3 @@
+http://cryptii.com/hexadecimal/text
+http://cryptii.com/base64/text
+http://cryptii.com/hexadecimal/text

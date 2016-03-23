@@ -1,0 +1,7 @@
+The problem name is an acronym for ASCII. We convert the numbers to their characters.
+
+>>> nums = [int(n) for n in '102 108 97 103 123 115 104 111 117 116 115 95 111 117 116 95 116 111 95 122 97 115 99 105 105 125'.split()]
+>>> for k in nums:
+	print chr(k),
+	
+f l a g { s h o u t s _ o u t _ t o _ z a s c i i }
