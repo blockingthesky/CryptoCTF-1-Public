@@ -1,0 +1,5 @@
+its a rail fence cipher, use one of these two sites to decode it
+https://github.com/TimCinel/RailFencePython
+http://www.dcode.fr/rail-fence-cipher
+
+Rail Fences are easy once you know them. flag{z1g_z4g_r41Lz}

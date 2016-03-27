@@ -1,0 +1,5 @@
+Remove all the right channels because it is just static
+Merge all the tracks together in order of their track number
+listen to the audio and you should hear
+the flag is flag open curly bracket puzzled underscore by underscore sound close curly bracket
+flag{puzzled_by_sound}
