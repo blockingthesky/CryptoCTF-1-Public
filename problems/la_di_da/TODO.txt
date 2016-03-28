@@ -1,3 +1,0 @@
-Turn notes.txt into a piece of sheet music in 3:4 time, in the key of A. Each measure should contain the three given notes. Include R. Umkin as the author, date 777, and title the piece Cher The Flamingo.
-
-notes.txt ONLY TO BE PUBLISHED IN WRITEUP

@@ -1,2 +1,0 @@
-plot the points, and you get a graph resembling the flag
-flag{c0nn3ct_th3_d0tz}

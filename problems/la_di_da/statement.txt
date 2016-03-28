@@ -1,3 +1,0 @@
-It is well known that some of the brightest human minds are those which compose music. However, appropriately, it is less known that those bright minds are also some of the most cunning with regard to cryptography. This sheet, written approximately in the year 777, was recovered from the studio of the legendary R. Umkin, and we know it masks a message. Figure out what that message is.
-
-FILE: melody.pdf
