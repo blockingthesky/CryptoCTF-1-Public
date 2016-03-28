@@ -1,0 +1,3 @@
+Add or subtract every number to the ascii value of the character in each line then convert back to a character.
+The matlab program is able to encrypt and decrypt the messages. after running 'decrypt.m' you should get:
+Performing math on letters is easy when you know their ascii values.

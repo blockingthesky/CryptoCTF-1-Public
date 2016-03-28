@@ -1,0 +1,3 @@
+This massive string of 22500 characters - all 1's and 0's - masks a message. Scan over it and see what you can find.
+
+FILE: den_so_wave.txt

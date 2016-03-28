@@ -1,0 +1,1 @@
+22500 is a perfect square - 150 * 150. Create a 150x150 image and fill it in row by row from the top left, using the string to determine the color of the pixel (1's are black, 0's are white). The resultant image is a QR code containing the flag.
