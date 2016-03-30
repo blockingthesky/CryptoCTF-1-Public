@@ -1,0 +1,5 @@
+This message was run through a washing machine before it showed up here. It even looks like parts of the message are intact. See what you can come up with.
+
+HINT: Don't trim the file, all whitespace is important.
+
+FILE: message.txt

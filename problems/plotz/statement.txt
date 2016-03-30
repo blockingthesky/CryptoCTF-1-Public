@@ -1,0 +1,3 @@
+We have intercepted a long sequence of number pairs that are most likely hiding a flag. Figure out what they mean.
+
+FILE: message.txt
