@@ -1,0 +1,3 @@
+Decrypt the text file.
+
+Hint: 1.21 KB is a bit big for a flag...

@@ -1,0 +1,2 @@
+Change header and footer bytes to those of PNG.
+Transcribe and rot13 the string inside the brackets to get the flag.
