@@ -1,0 +1,3 @@
+The ciphertext given was encrypted with a One Time Pad. It is perfectly secure. glhf!
+
+FILE: encrypted.txt

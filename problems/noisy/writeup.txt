@@ -1,0 +1,1 @@
+Diff the two photos to see the flag. See sol.py or use this online tool: https://huddle.github.io/Resemble.js/
