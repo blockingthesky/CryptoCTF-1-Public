@@ -1,0 +1,3 @@
+Java's Random class uses a PRNG. With enough outputs, it is possible to recover the internal state of a PRNG and predict future outputs.
+We use the logged integers, and a library such as foresight (https://github.com/ALSchwalm/foresight) to predict the values that the flag will be XOR'ed with.
+we can then simply undo the XOR'ing and recover the flag
