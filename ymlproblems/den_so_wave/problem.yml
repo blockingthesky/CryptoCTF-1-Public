@@ -1,0 +1,11 @@
+name: Den So Wave
+author: Jacob Magnuson
+category: Original
+description: >
+  This massive string of 22500 characters - all 1's and 
+  0's - masks a message. Scan over it and see what you can 
+  find.<br />
+  <a href="|den_so_wave.txt|">den_so_wave.txt</a>
+hint: This is a hint.
+points: 100
+flag: "flag{qlever_binary_qryptography}"

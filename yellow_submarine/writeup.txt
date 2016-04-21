@@ -1,0 +1,5 @@
+Let's try a substitution cipher!
+
+Plug it in: http://quipqiup.com
+
+Voila!

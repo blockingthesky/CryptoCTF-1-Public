@@ -1,0 +1,1 @@
+The pad used to encrypt the flag was the text in the problem statement. The number of characters in the statement (85) is equal to the number of hex values in the ciphertext. See sol.py.

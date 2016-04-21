@@ -1,0 +1,1 @@
+Performing math on letters is easy when you know their ascii values. 

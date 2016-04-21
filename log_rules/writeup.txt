@@ -1,0 +1,17 @@
+The image depicts a formula used frequently in middle school mathematics - the logarithmic change of base formula. We will be changing bases! Since the problem text screams 8, we will first try Octal:
+
+http://cryptii.com/octal/text
+
+Output: NjY2YzYxNjc3YjYyNjE3MzY5NjM2MTZjNmM3OTVmNjI3MjYxNmU2NDZmNmU1ZjZkNjM2MzYxNzI3NDZlNjU3OTdk
+
+With a long gaze, we can assume this to be base 64, so let's translate:
+
+http://cryptii.com/base64/text
+
+666c61677b6261736963616c6c795f6272616e646f6e5f6d63636172746e65797d
+
+Smells like hex.
+
+http://cryptii.com/hexadecimal/text
+
+flag{basically_brandon_mccartney}

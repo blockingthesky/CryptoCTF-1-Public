@@ -1,6 +1,8 @@
 name: Audio Craze
 author: Matias Scharager
 category: Forensics
-description: We intercepted a secret message with a broken TV antenna. Can you figure out what it says?
+description: >
+  We intercepted a secret message with a broken TV antenna. Can you figure out what it says?<br />
+  <a href="audio.zip">audio.zip</a>
 points: 100
 flag: "flag{puzzled_by_sound}"

@@ -1,0 +1,3 @@
+Each * in each text file replaces a hex char. Print all the ones that are left out and concatenate them in order.
+This is actually a list of md5 hashes. You can put them to any hash cracking website and each hash is one character. 
+Concatenate all the characters to get the flag.
