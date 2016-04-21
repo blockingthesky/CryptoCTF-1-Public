@@ -1,0 +1,9 @@
+name: Plotz
+author: Matias Scharager
+category: Original
+description: >
+  We have intercepted a long sequence of number pairs that are most 
+  likely hiding a flag. Figure out what they mean.<br />
+  <a href="|plotz.txt|">plotz.txt</a>
+points: 100
+flag: "flag{c0nn3ct_th3_d0tz}"

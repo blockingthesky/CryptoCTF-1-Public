@@ -1,0 +1,9 @@
+name: Yellow Submarine
+author: Jacob Magnuson
+category: Classic
+description: >
+  THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG.<br />
+  <a href="|yellow_submarine.txt|">yellow_submarine.txt</a>
+hint: Don't ignore the problem statement. Or do, and just google instead.
+points: 100
+flag: "flag{just_used_quipqiup_anyway}"

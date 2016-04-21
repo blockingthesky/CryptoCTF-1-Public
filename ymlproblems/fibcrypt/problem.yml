@@ -1,0 +1,14 @@
+name: Fibcrypt
+author: Ankur Sundara
+category: Original
+description: >
+  Our company wants to roll this new encryption, 
+  which is apparently based on the fibonacci 
+  sequence... but I'm not so sure it's secure. 
+  Can you figure out how to decrypt this message? 
+  I have the encryption program for you too.<br />
+  <a href="|fibcrypted.txt|">fibcrypted.txt</a>
+  <a href="|fibcrypt.py|">fibcrypt.py</a>
+hint: I hear the message is in flag{} format...
+points: 100
+flag: "flag{Q_m4trix_fun}"

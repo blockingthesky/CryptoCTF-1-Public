@@ -1,0 +1,10 @@
+name: MIA
+author: Communist Scum
+category: Original
+description: >
+  Somethings weird about these files... can you find the 
+  secret message?<br />
+  <a href="|mia_1.zip|">mia_1.zip</a>
+hint: What does MIA stand for?
+points: 100
+flag: "flag{m1Ss1ng_1N_4cT10n}"

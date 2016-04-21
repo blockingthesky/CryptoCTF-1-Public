@@ -1,0 +1,10 @@
+name: Scrambled File
+author: Kevin Shen
+category: Forensics
+description: >
+  You know how hard disks spin? Well, I think mine 
+  spun too fast and my file got scrambled!<br />
+  <a href="|wut|">wut/a>
+hint: What's the most common byte in normal files? What is it in this file?
+points: 100
+flag: "flag{1_c4n_ROT13_f1l3z_t00}"

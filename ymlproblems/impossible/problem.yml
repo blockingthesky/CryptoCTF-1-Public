@@ -1,0 +1,10 @@
+name: Impossible
+author: Jacob Magnuson
+category: Miscellaneous
+description: >
+  You don't have a chance.
+  <br/>
+  <pre>1YdMMvL</pre>
+hint: Not a bit.
+points: 100
+flag: "flag{some_bs}"

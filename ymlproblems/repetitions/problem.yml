@@ -1,0 +1,12 @@
+name: Repetitions
+author: Matias Scharager
+category: Classic
+description: >
+  Aanna likes repeating things over and over again, making 
+  everything more complicated than it has to be. When she 
+  got a hold on the flag, she just had to mix it up repeatedly. 
+  Can you find the flag? Can you find the flag?<br />
+  <a href="|file.in|">This is a file.</a>
+hint: Typos? We don't make typos.
+points: 100
+flag: "flag{X0r_4ga1n_n_4ga1n}"

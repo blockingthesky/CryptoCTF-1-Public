@@ -1,0 +1,10 @@
+name: Magic Eye
+author: Matias Scharager
+category: Troll
+description: >
+  What does this say?
+  <br />
+  <a href="|magiceye.png|">magiceye.png</a>
+hint: No computer skills required ;)
+points: 100
+flag: "flag{You_C4N_C_M3}"

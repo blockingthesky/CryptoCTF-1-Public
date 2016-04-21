@@ -1,0 +1,10 @@
+name: Log Rules
+author: Jacob Magnuson
+category: Classic
+description: >
+  Getting started? What do an octopus, a spider,
+  John and Kate, and oxygen have in common?<br />
+  <a href="|file.in|">This is a file.</a>
+hint: <a href="http://thefredeffect.com/wp-content/uploads/2014/02/logchangebase.jpg">How about valence electrons? Octagons? Scorpio?</a>
+points: 100
+flag: "flag{basically_brandon_mccartney}"

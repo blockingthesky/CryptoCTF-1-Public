@@ -1,0 +1,10 @@
+name: Twice The Fun
+author: Jacob Magnuson
+category: Original
+description: >
+  Have a look at the attached problem, and see if you can find anything.<br /> 
+  Have a look at the attached problem, and see if you can find anything.<br />
+  <a href="|txt.txt|">txt.txt</a>
+hint: No hint. No hint.
+points: 100
+flag: "flag{just_another_ASCII_cipher}"

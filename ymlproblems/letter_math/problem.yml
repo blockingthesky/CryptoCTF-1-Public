@@ -1,0 +1,9 @@
+name: Letter Math
+author: Matias Scharager
+category: Original
+description: >
+  We recently discovered a secret message left by a mathematician. Can you figure out what it says?
+  <br>
+  <a href="|letter_math.txt|">letter_math.txt</a>
+points: 100
+flag: "flag{L3tt3rz_R_Num63rz_2}"

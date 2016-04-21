@@ -1,3 +1,15 @@
+this is probably all wrong don't listen to it
+
+
+
+
+
+
+
+
+
+
+
 INSTRUCTIONS FOR CONVERTING TO DATABASE-READY FORMAT:
 
 ##########################################################
@@ -35,4 +47,4 @@ INSTRUCTIONS FOR CONVERTING TO DATABASE-READY FORMAT:
     NOTE: EVERY PROBLEM'S FILES MUST HAVE UNIQUE NAMES
           NOT EVERY PROBLEM CAN HAVE A MESSAGE.TXT
     
-3 - Place corresponding files in the static folder.
+3 - Place corresponding files in that folder.

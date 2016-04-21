@@ -1,0 +1,10 @@
+name: Letter Hax
+author: Jacob Magnuson
+category: Original
+description: >
+  Every number deserves to be fairly represented.
+  <br/>
+  <pre>241 166 { 67 161 _ 192 255 238 _ 21 _ 80 _ 19 55 }</pre>
+hint: You might need to play with different capitalizations once you find the flag.
+points: 100
+flag: "flag{real_coffee_is_so_1337}"

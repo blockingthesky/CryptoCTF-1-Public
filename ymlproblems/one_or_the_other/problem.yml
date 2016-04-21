@@ -1,0 +1,13 @@
+name: One Or The Other
+author: Jacob Magnuson
+category: Original
+description: >
+  A private message was sent to us in the form of two pictures. Attached was a message scrawled in sloppy blue sharpie. It read
+  <br>
+  <pre>One or the other. Make up your mind.</pre>
+  <br>
+  <a href="|crypto_rox1.png|">crypto_rox1.png</a>
+  <a href="|crypto_rox2.png|">crypto_rox2.png</a>
+hint: Figure out what they meant.
+points: 100
+flag: "flag{for_Your_eyes_Xclusively}"

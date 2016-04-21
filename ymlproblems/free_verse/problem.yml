@@ -1,0 +1,14 @@
+name: Free Verse
+author: Jacob Magnuson
+category: Original
+description: >
+  This year, a very renowned cryptographer manager 
+  to win a literary prize. However, the things he 
+  writes make next to no sense. An excerpt from 
+  the novel he wrote is attached. We know there's
+  a flag. Figure out what he thinks of his own 
+  work.<br />
+  <a href="|pulitzer_winner.txt|">pulitzer_winner.txt</a>
+hint: Of course it doesn't make sense; the author was downright nuts.
+points: 100
+flag: "flag{this_is_dumb}"

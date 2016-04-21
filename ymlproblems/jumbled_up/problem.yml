@@ -1,0 +1,10 @@
+name: Jumbled Up
+author: Matias Scharager
+category: Classic
+description: >
+  Something happened to this message. Figure out what it was.
+  <br />
+  <a href="|jumbled_up.txt|">jumbled_up.txt</a>
+hint: Choo-Choo!
+points: 100
+flag: "flag{zig_zag_railz}"
