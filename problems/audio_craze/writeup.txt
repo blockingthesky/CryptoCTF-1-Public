@@ -1,4 +1,0 @@
-Remove all the right channels because it is just static.
-Merge all the tracks together in order of their track number.
-Listen to the audio and you should hear the following:
-"the flag is flag open curly bracket puzzled underscore by underscore sound close curly bracket"
