@@ -1,0 +1,35 @@
+INSTRUCTIONS FOR CONVERTING TO DATABASE-READY FORMAT:
+
+##########################################################
+##########################################################
+###  DO NOT REMOVE ANY FOLDERS CURRENTLY IN /problems  ###
+###  OR THEY WILL BE BE REMOVED WITH THE WRITEUPS!!!!  ###
+##########################################################
+##########################################################
+
+1 - All problems must have a file in them with the same name as their 
+    containing folder's title, with a .yml extension. Their format must
+    resemble this:
+    
+        name: Social Competence
+        author: Varun Iyer
+        category: Idiocy
+        description: I need someone to tell me how to solve this. Pls help.
+        points: 420
+        flags: "flag{flag_mining}"
+        
+2 - If your problem has files associated with it, your folder must also
+    contain a file named static.yml containing a list of related files.
+    That file should be formatted like so:
+    
+        - file1.txt
+        - yourpic.jpg
+        
+    You also can edit the description to contain inline links to files, like so:
+    
+        description: <a href="|file1.txt|">This is a link to file1.txt</a> and this is the rest.
+        
+    NOTE: EVERY PROBLEM'S FILES MUST HAVE UNIQUE NAMES
+          NOT EVERY PROBLEM CAN HAVE A MESSAGE.TXT
+    
+3 - Place corresponding files in the static folder.
