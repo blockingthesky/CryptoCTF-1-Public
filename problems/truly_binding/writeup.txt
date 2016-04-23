@@ -1,0 +1,1 @@
+Each line is an item from the Binding of Isaac, a game made by Nicalis, which Tyrone works for. You can discover this using background knowledge or searching up "tyrone game dev" or something similar. Each of the items has an ID, which happens to be a character in decimal. Convert each one to ascii and you get the flag.
