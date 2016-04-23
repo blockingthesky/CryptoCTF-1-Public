@@ -1,5 +1,0 @@
-This is a rail fence cipher, choo choo! You can read more about them here:
-
-Several decoders exist online for them. Here are two.
-http://www.dcode.fr/rail-fence-cipher
-https://github.com/TimCinel/RailFencePython

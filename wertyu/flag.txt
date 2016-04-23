@@ -1,1 +1,0 @@
-flag{sorry_dvorak_users}

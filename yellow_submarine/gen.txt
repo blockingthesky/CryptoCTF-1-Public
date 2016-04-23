@@ -1,6 +1,0 @@
-http://rumkin.com/tools/cipher/substitution.php
-
-key: THEQUICKBROWNFOXJUMPEDOVERTHELAZYDOG
-or: THEQUICKBROWNFXJMPDVLAZYGS
-
-plaintext: The key used to encode this was the same as the hint, but with repeated letters omitted as they appeared. If you figured that out by hand, you're quite clever, but honestly, most of you probably flag{just_used_quipqiup_anyway}

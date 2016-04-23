@@ -1,6 +1,0 @@
-FLAG{REAL_COFFEE_IS_SO_LEET}
-flag{real_coffee_is_so_leet}
-FLAG{REAL_COFFEE_IS_SO_1337}
-flag{real_coffee_is_so_1337}
-f1a6{43a1_c0ffee_15_50_1337}
-F1A6{43A1_C0FFEE_15_50_1337}

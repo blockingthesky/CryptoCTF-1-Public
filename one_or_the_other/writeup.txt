@@ -1,7 +1,0 @@
-The flag, which at first existed in a picture, was encrypted by XOR'ing each RGB value with those in another picture file containing only noise, like so:
-
-(R1, G1, B1) ^ (R2, G2, B2) = (R1 ^ R2, G1 ^ G2, B1 ^ B2)
-
-Reversing this process will reveal the original flag (see xorpix.py)
-
-python xorpix.py crypto_rox1.png crypto_rox2.png your_flag.png

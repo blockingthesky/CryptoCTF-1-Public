@@ -1,3 +1,0 @@
-Every number deserves to be fairly represented.
-
-<pre>241 166 { 67 161 _ 192 255 238 _ 21 _ 80 _ 19 55 }</pre>

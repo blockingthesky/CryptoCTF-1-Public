@@ -1,1 +1,0 @@
-Get the hex representation of every number. Append them all into one string. Read the 1337 flag.

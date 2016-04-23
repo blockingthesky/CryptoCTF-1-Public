@@ -1,1 +1,0 @@
-When the message was run through the washing machine, it got turned into a spiral. We can split it into lengths of 17, or sqrt(289), and read the message from the bottom right.

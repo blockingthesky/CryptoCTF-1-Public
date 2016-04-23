@@ -1,1 +1,0 @@
-When plotted on a typical coordinate plane, the points create a picture of the flag. See sol.py or the Solution folder.

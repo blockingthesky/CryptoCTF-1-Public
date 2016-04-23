@@ -1,3 +1,0 @@
-The characters are the extension to a bit.ly link.
-
-The full url is http://bit.ly/1YdMMvL. It redirects to a pastebin with the flag.

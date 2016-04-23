@@ -1,3 +1,0 @@
-its a repeating xor with a key of 25
-split the hex into groups of 2 and then do a bitwise xor with 25 to get the following message:
-Solving repeating xor ciphers is easy when there is only one byte. flag{X0r_4ga1n_n_4ga1n}

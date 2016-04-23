@@ -1,1 +1,0 @@
-flag{some_bs}

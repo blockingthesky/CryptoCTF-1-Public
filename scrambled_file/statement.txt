@@ -1,5 +1,0 @@
-You know how hard disks spin? Well, I think mine spun too fast and my file got scrambled :(
-
-HINT: What's the most common byte in normal files? What is it in this file?
-
-FILE: wut

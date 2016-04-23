@@ -1,3 +1,0 @@
-This year, a very renowned cryptographer manager to win a literary prize. However, the things he writes make next to no sense. An excerpt from the novel he wrote is attached. We know there's a flag. Figure out what he thinks of his own work.
-
-FILE: pulitzer_winner.txt

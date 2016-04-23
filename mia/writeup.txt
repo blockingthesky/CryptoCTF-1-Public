@@ -1,1 +1,0 @@
-Each * in each text file replaces a hex char. Print all the ones that are left out and concatenate them in order, and convert the hex to ascii. Done.

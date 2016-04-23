@@ -1,1 +1,0 @@
-Un-rot13 all the bytes in the file, as can be seen with encode.py.

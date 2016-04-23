@@ -1,5 +1,0 @@
-We're not sure what the picture means, but can we figure out the colors' means? ;)
-
-The flag can be found by averaging each of the RGB tuples extending out from the center black pixel, following the spiral. If a pixel has an RGB tuple of (122, 89, 95), then its average would be (122+89+95)/3 = 102 => 'f'.
-
-The solution is in sol.py
