@@ -1,0 +1,6 @@
+The math might look scary, but the cryptosystem is actually very easy to break using a known ciphertext attack.
+The most important part is to recognize that this is an implementation of the Rabin cryptosystem.
+Looking at the wikipedia page we see that if someone has both r and s, he can find the factorization of N because gcd(|r-s|,N) is either equal to p or q
+We know the possible decryptions for "Hello World!", so we know both r and s!
+We simply compute p = gcd(|r-s|,N), q=N/p, and then look at the decryption possibilities of decrypt(encrypted_flag, p,q)
+The flag will be one of the possibilities, flag{ch0sen_c1phert3xt_att4ckz_r_ez}

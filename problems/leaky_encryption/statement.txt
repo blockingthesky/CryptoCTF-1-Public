@@ -1,0 +1,4 @@
+I implemented another secure cryptosystem, but people keep decrypting my stuff somehow! Can you figure out how they do it???
+
+- LeakyEncryption.java
+- leakyencryption.out
