@@ -1,0 +1,3 @@
+go to http://rumkin.com/tools/cipher/skip.php.
+
+Decode, bypass=1, skip=4.
