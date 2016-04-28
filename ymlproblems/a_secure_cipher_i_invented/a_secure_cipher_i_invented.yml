@@ -1,9 +1,0 @@
-name: A Secure Cipher I Invented
-author: Jacob Magnuson
-category: Classic
-description: >
-  I didn't really, though.<br />
-  <a href="|super_secure.txt|">super_secure.txt</a>
-hint: <a href="http://www.asciitable.com/">asciitable.com</a>
-points: 100
-flags: "flag{shouts_out_to_zascii}"
