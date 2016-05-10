@@ -1,0 +1,1 @@
+All of the messages were encrypted using the same pad. Perform a crib drag attack on lengthier messages to discover the key. The flag is in the conversation.

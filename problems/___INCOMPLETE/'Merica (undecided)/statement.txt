@@ -1,2 +1,0 @@
-A patriotic American has hidden the flag within a flag. Can you find it?
-Note: the flag is not in the flag{} format, but submit the flag in the flag{solution} format anyway

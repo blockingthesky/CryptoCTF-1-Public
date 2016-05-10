@@ -1,8 +1,0 @@
-First open the picture in a text editor and remove all the data until the JPEG ending marker.
-You should be left with a zip file with two files in it.
-The numbers in message represent the coordinates of the letter you are finding within the Preamble like this:
-a,b,c
-where a is the line number, b is the word in the line, and c is the letter within the word
-like every good programmer, counting starts at 0
-Once finding all the letters within the message, they spell theflagisOhsaycanyousee
-flag{Ohsaycanyousee}

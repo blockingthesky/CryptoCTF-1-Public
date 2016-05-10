@@ -1,0 +1,10 @@
+name: Threefold
+author: Jacob Magnuson
+category: Original
+description: >
+  All I see is threes. And more threes. Why are there so many threes?<br />
+  <a href="|several_threes.txt|">several_threes.txt</a>
+hint: >
+  Totally unrelated, but <a href="http://threesjs.com/">Threes</a> is a fun game.
+points: 100
+flag: "flag{three_is_a_magic_numb3r_3333333}"

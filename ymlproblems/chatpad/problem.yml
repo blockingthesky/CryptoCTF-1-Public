@@ -1,0 +1,12 @@
+name: Chatpad
+author: Jacob
+category: Original
+description: >
+  We've intercepted the correspondances of two secret 
+  agents, and we believe there's some sort of flag hidden 
+  within. Please decrypt their conversation, as it is 
+  obviously of much importance.<br />
+  <a href="|chatpad.log|">chatpad.log</a>
+hint: We also have reason to believe that one of the agents here isn't the brightest. Bright agents vary their keys.
+points: 100
+flag: "flag{brahthatsnotmethoughwatisshiet}"
