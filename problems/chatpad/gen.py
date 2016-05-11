@@ -10,4 +10,4 @@ out = open('padchat.log', 'w')
 out.write('[BEGIN PADCHAT LOG]\n')
 out.write('\n\n'.join(': '.join(y) for y in messages))
 out.write('\n[END PADCHATLOG]')
-out.close
+out.close()
