@@ -1,0 +1,3 @@
+Can you crack the code? We intercepted another flag but can't seem to figure out how it was encrypted.
+
+HINT: The numbers don't seem to follow a specific pattern...
