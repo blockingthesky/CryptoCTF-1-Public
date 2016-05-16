@@ -4,7 +4,7 @@ category: Original
 description: >
   My boss started passing all of his messages through some obfuscation 
   software, and I think he's got some information involving my salary 
-  in <a href="super_encrypted">this file</a>. Or maybe he's just messing 
+  in <a href="|super_encrypted|">this file</a>. Or maybe he's just messing 
   around. Either way, can you figure out what's up?<br />
   <a href="|mucho_encrypto.py|">mucho_encrypto.py</a>
 hint: Just reverse it, no big deal.
