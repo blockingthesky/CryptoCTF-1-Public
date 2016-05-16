@@ -1,3 +1,0 @@
-It's just hex encoded several times, but looks weird because hex('3') -> '33'. It simply needs to be decoded a bunch of times.
-
-See sol.py
