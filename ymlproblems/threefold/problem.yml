@@ -1,8 +1,0 @@
-name: Threefold
-author: Jacob magnuson
-category: Original
-description: >
-  I don't know what to do with all these threes. It just hurts my head.<br />
-  <a href="|threes.txt|">threes.txt</a>
-points: 100
-flag: "flag{three_times_harder_than_regular_hex}"
