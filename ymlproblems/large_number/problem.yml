@@ -1,0 +1,8 @@
+name: Large Number
+author: Jacob Magnuson
+category: Classic
+description: >
+  <code>204616513600822588902180136497373775046</code><br />
+hint: Pretty intimidating for a number.
+points: 100
+flag: "flag{n0thing_is_m0re_secur3_than_md5}"

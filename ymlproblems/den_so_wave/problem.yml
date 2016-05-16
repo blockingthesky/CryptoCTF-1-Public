@@ -6,6 +6,6 @@ description: >
   0's - masks a message. Scan over it and see what you can 
   find.<br />
   <a href="|den_so_wave.txt|">den_so_wave.txt</a>
-hint: This is a hint.
+hint: Everything in computers comes down to 1's and 0's, bro. Trippy.
 points: 100
 flag: "flag{qlever_binary_qryptography}"

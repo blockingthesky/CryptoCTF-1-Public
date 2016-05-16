@@ -1,0 +1,4 @@
+Writeup:
+When looking at the problem one thing that should be clearly important: "pokemon sun and moon"
+Upon looking for ciphers that are put into groups of two, you learn it's a playfair cipher. A playfair cipher needs needs a key. The only thing given was "pokemon sun and moon"
+Upon doing that and putting in the cipher text, you get a msg saying "what is the hundredth pokemon" which is the flag.

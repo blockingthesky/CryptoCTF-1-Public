@@ -1,0 +1,3 @@
+Recall sCTF's "Lengthy Lingo", where the flag was found by taking the lengths of the given numbers. In this problem, the concept is similar, but we're inspecting the bitlengths of the numbers.
+
+See sol.py

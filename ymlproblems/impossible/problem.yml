@@ -4,7 +4,7 @@ category: Miscellaneous
 description: >
   You don't have a chance.
   <br/>
-  <pre>1YdMMvL</pre>
+  <code>1YdMMvL</code>
 hint: Not a bit.
 points: 100
 flag: "flag{some_bs}"
