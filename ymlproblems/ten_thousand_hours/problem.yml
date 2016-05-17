@@ -1,6 +1,6 @@
 name: Ten Thousand Hours
 author: Jacob Magnuson
-category: Original
+category: Cryptrollgraphy
 description: >
   My boss started passing all of his messages through some obfuscation 
   software, and I think he's got some information involving my salary 
@@ -8,5 +8,5 @@ description: >
   around. Either way, can you figure out what's up?<br />
   <a href="|mucho_encrypto.py|">mucho_encrypto.py</a>
 hint: Just reverse it, no big deal.
-points: 100
+points: 150
 flag: "flag{r3ndomly_g3nerat3d_m3th0dS_FTW}"

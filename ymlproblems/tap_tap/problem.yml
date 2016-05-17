@@ -1,9 +1,9 @@
 name: Tap Tap
 author: Jacob Magnuson
-category: Classic
+category: Cryptography
 description: >
   You won't need a J-38, but you will need to add braces.<br />
   <a href="|tap_tap.txt|">tap_tap.txt</a>
 hint: My voice was horse (the sorce of my ailment being shouting, of corse), so I have to force people to communicate like this.
-points: 100
+points: 25
 flag: "flag{the_long_and_short_of_it}"

@@ -1,9 +1,9 @@
 name: Tactile
 author: Jacob Magnuson
-category: Original
+category: Cryptography
 description: >
   My nerd friend Louis sent me this message, told me I should decode it. Help me out?<br />
   <a href="|tactile.png|">tactile.png</a>
 hint: Cryptographic alphabet?
-points: 100
+points: 110
 flag: "flag{eulerwasanintegralpartofmathematics}"

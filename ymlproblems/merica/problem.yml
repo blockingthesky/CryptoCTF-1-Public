@@ -1,9 +1,9 @@
-name: \'Merica
+name: "'Merica"
 author: Matias Scharager
-category: Original
+category: Cryptography
 description: >
   A patriotic American has hidden the flag within a flag. Can you find it?<br />
   <a href="|flag.jpg|">flag.jpg</a>
 hint: The flag is not in flag{phrase} format; when you find the phrase, put it in flag{phrase} format.
-points: 100
+points: 55
 flag: "flag{Ohsaycanyousee}"

@@ -5,6 +5,5 @@ description: >
   I created a new one time pad. The key is randomly generated this time, so there's no way anyone should ever be able to recover my secret!<br />
   <a href="|OTP.java|">OTP.java</a><br />
   <a href="|output.log|">output.log</a><br />
-  
-points: 100
+points: 170
 flag: "flag{prngs_arent_very_secure}"

@@ -1,6 +1,6 @@
 name: MLG Crypto
 author: Jacob Magnuson
-category: Original
+category: Cryptography
 description: >
   We grabbed this message from some 13 year old kids on XBox Live. 
   They probably have something super important and socially poignant masked behind this veil of absolute dimwittery. 
@@ -8,5 +8,5 @@ description: >
   <br>
   <a href="|mlg_crypto.txt|">mlg_crypto.txt</a>
 hint: BR0H WE G0TT@ NUK3 THE 5UBZ M8 STR8 NO B8, REL8??
-points: 100
+points: 90
 flag: "flag{leet_smoked_memes_bro}"

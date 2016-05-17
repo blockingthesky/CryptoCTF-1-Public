@@ -1,6 +1,6 @@
 name: Fibcrypt
 author: Ankur Sundara
-category: Original
+category: Cryptography
 description: >
   Our company wants to roll this new encryption, 
   which is apparently based on the fibonacci 
@@ -10,5 +10,5 @@ description: >
   <a href="|fibcrypted.txt|">fibcrypted.txt</a><br />
   <a href="|fibcrypt.py|">fibcrypt.py</a>
 hint: I hear the message is in flag{} format...
-points: 100
+points: 170
 flag: "flag{Q_m4trix_fun}"

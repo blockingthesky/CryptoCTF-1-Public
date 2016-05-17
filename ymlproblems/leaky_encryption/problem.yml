@@ -1,10 +1,10 @@
 name: Leaky Encryption
 author: Ankur Sundara
-category: Classic
+category: Cryptography
 description: >
   I implemented another secure cryptosystem, but people keep decrypting my stuff somehow! Can you figure out how they do it???<br />
   <a href="|LeakyEncryption.java|">LeakyEncryption.java</a> <br />
   <a href="|leakyencryption.out|">leakyencryption.out</a>
 hint: The cryptosystem used is the first cryptosystem whose security was proved equivalent to the difficulty of integer factorization.
-points: 100
+points: 140
 flag: "flag{ch0sen_c1phert3xt_att4ckz_r_ez}"

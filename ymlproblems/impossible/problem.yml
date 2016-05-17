@@ -1,10 +1,10 @@
 name: Impossible
 author: Jacob Magnuson
-category: Miscellaneous
+category: Cryptrollgraphy
 description: >
   You don't have a chance.
   <br/>
   <code>1YdMMvL</code>
 hint: Not a bit.
-points: 100
+points: 110
 flag: "flag{some_bs}"

@@ -1,6 +1,6 @@
 name: Getting Dizzy
 author: Jacob Magnuson
-category: Miscellaneous
+category: Cryptography
 description: >
   This message was run through a washing machine 
   before it showed up here. It even looks like 
@@ -8,5 +8,5 @@ description: >
   can come up with.<br />
   <a href="|dizzy.txt|">dizzy.txt</a>
 hint: Don't trim the file, all whitespace is important.
-points: 100
+points: 60
 flag: "flag{73706972616c735f6172655f66756e}"

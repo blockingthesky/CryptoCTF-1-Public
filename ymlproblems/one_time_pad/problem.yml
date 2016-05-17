@@ -1,9 +1,9 @@
 name: One Time Pad
 author: Jacob Magnuson
-category: Troll
+category: Cryptrollgraphy
 description: >
   The ciphertext given was encrypted with a One Time Pad. It is perfectly secure. glhf!<br />
   <a href="|one_time_pad.txt|">one_time_pad.txt</a>
 hint: The message is 85 characters.
-points: 100
+points: 140
 flag: "flag{keys_are_everywhere}"

@@ -1,11 +1,11 @@
 name: Noisy
 author: Jacob Magnuson
-category: Original
+category: Cryptography
 description: >
   Sure, you could encrypt your photos with a <em>real</em> program, 
   but we can just do it our own way. Really, what's the difference?<br />
   <a href="|firstout.png|">firstout.png</a><br />
   <a href="|secondout.png|">secondout.png</a>
 hint: There isn't one. Probably.
-points: 100
+points: 60
 flag: "flag{we_all_have_our_differences}"

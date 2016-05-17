@@ -1,8 +1,8 @@
 name: WERTYU
 author: Jacob Magnuson
-category: Original
+category: Cryptography
 description: >
   I CAN'T FIGURE OUT THIS CIPHER SDFGHJKL<br />
   <code>g;sh}dpttu+fbptsl+idrtd|</code>
-points: 100
+points: 30
 flag: "flag{sorry_dvorak_users}"

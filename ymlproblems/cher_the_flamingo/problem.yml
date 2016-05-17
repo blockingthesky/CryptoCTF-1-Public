@@ -1,6 +1,6 @@
 name: Cher The Flamingo
 author: Jacob Magnuson
-category: Original
+category: Cryptography
 description: >
   It is well known that some of the brightest human minds
   are those which compose music. However, appropriately, 
@@ -9,5 +9,5 @@ description: >
   sheet was recovered from the studio of the legendary R. Umkin, and we know it masks a message. Figure out what that message is.<br />
   <a href="|melody.pdf|">melody.pdf</a>
 hint: If it helps, the song was written in 777.
-points: 100
+points: 110
 flag: "flag{the_sound_of_cryptographic_mystery}"

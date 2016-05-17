@@ -1,9 +1,9 @@
 name: Primey RSA
 author: Ankur Sundara
-category: Original
+category: Cryptography
 description: >
   Your friend sent you an RSA encrypted message, but all you have is the public key.
   Can you decrypt it?<br />
   <a href="|primey_rsa|">primey_rsa</a>
-points: 70
+points: 110
 flag: "flag{pr1mey_p4tternz}"

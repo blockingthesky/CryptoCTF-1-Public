@@ -1,9 +1,9 @@
 name: So Many
 author: Communist Scum
-category: Original
+category: Cryptography
 description: >
   Decrypt the file.<br />
   <a href="|so_many|">so_many</a>
 hint: 1.21 KB is a bit big for a flag...
-points: 100
+points: 20
 flag: "flag{r3peating_over_and_0ver_and_ov3r_and_0v3r}"

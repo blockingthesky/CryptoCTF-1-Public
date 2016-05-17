@@ -1,11 +1,11 @@
 name: Lengthier Lingo
 author: Jacob Magnuson
-category: Original
+category: Cryptography
 description: >
   Can you crack the code? We intercepted another 
   flag but can't seem to figure out how it was 
   encrypted.<br />
   <a href="|encrypted.dat|">encrypted.dat</a>
 hint: The numbers don't seem to follow a specific pattern...
-points: 100
+points: 70
 flag: "flag{i_liked_the_f1rst_on3_better_shouts_to_sctf}"

@@ -1,6 +1,6 @@
 name: Free Verse
 author: Jacob Magnuson
-category: Original
+category: Cryptrollgraphy
 description: >
   This year, a very renowned cryptographer manager 
   to win a literary prize. However, the things he 
@@ -10,5 +10,5 @@ description: >
   work.<br />
   <a href="|pulitzer_winner.txt|">pulitzer_winner.txt</a>
 hint: Of course it doesn't make sense; the author was downright nuts.
-points: 100
+points: 80
 flag: "flag{this_is_dumb}"

@@ -1,9 +1,9 @@
 name: Spiraling Into Insanity
 author: Jacob Magnuson
-category: Original
+category: Cryptrollgraphy
 description: >
   I'm confused. Can you figure out what this picture <strong>means</strong>?<br />
   <a href="|spiral.png|">spiral.png</a>
 hint: No, seriously, figure out its meaning.
-points: 100
+points: 130
 flag: "flag{that_was_average}"
