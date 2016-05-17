@@ -1,0 +1,9 @@
+name: Rot26
+author: Jacob Magnuson
+category: Cryptography
+description: >
+  Argh ROT-26 is the worst!!!!11!1!<br />
+  <code>flag{sanity_check}</code>
+hint: Rakom?
+points: 5
+flag: "flag{sanity_check}"
