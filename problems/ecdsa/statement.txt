@@ -1,0 +1,1 @@
+I implemented an ECDSA signing server, its running on {{insert IP:PORT here}}. For some reason, it won't give me a signature for my message 'elliptic curve cryptography is cool', though. Can you get it for me?
