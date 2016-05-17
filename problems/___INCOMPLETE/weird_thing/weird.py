@@ -7,6 +7,7 @@ def encrypt(msg):
 
 print encrypt("The quick brown fox jumps over the lazy dog.")
 print encrypt("Hello, my name is Magic Mike and I'm here to make you suffer!")
+print encrypt("Jacob")
 print encrypt("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx redacted xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 
 # Output:

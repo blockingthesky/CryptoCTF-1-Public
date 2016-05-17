@@ -1,0 +1,10 @@
+name: Unzip Me
+author: Atharva Nagarkar
+category: Cryptography
+description: >
+  I'm like really scared of zip bombs, and my hacker friend sent 
+  me this but he's been talking about how he wants to troll me. 
+  Please make sure it's safe!<br />
+  <a href="|flag.zip|">flag.zip</a>
+points: 65
+flag: "flag{efforts_you_have_wasted_young_one}"

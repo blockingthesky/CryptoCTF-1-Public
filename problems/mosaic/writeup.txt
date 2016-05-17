@@ -1,0 +1,1 @@
+The bottom of the picture is covered in five pixel long stripes. Every stripe has a single partner of the same exact RGB value, at the same height. Sorting every three pixel wide column such that the stripes match up reveals the flag. See sol.py for the code.

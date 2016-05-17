@@ -1,0 +1,5 @@
+We are given a simple looking zip file: "mordor.zip". At first, we try to unzip it, only to find another zip file inside it. This happens every time we try to unzip a file, recursively. In order to get a better grasp of what the problem wants us to do, we open the zip file in a text editor (notepad, np++, etc). We see all the zip file names, also that they repeat every now and then, but in no particular order. This means that they have been placed in a pseudorandom order. Besides all the zip files, we see a flag.txt in the middle, which means that our goal is to unzip all the levels of the zip files.
+
+Knowing that we will eventually unzip and get to a file called "flag.txt", we can write a simple python script to do the job for us.
+
+After making and running the script to unzip all files, we can now see the flag.txt file, in which 

@@ -1,0 +1,3 @@
+It's just like hella hex encoded. hex('3') --> '33', which is pretty funny. Lots of threes.
+
+See sol.py

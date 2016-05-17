@@ -1,0 +1,11 @@
+name: Lines for Days
+author: Aidan Perras
+category: Cryptrollgraphy
+description: >
+  Hmmmm, my dear llama gave me these numbers.<br />
+  <code>4, 11, 15, 25, 37, 48, 71, 83, 94, 104<br />
+  He also gave me a picture. What could he be trying to tell me?<br />
+  <a href="|lines.png|">lines.png</a>
+hint: We're all llamas.
+points: 55
+flag: "flag{lol_numbers_really_work}"

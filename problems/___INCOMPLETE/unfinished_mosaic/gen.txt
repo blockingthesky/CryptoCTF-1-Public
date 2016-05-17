@@ -1,5 +1,0 @@
-initgen places all of the colors. There are two-unit wide, five unit tall distinctly colored stripes around the bottom of every column.
-
-The flag was then added with mspaint X)
-
-Then it was all shuffled with shuffle.py in columns of three, so the stripes were split in two. The two black columns are the left and right (one at the left of its column and one at the right)

@@ -1,0 +1,13 @@
+name: Threefold
+author: Jacob Magnuson
+category: Cryptrollgraphy
+description: >
+  Ahhh! What am I supposed to do with all these threes?<br /> 
+  <a href="|threefold|">threefold</a>
+hint: >
+  333<br />
+  3 + 3 + 3 = 9<br />
+  9 / 3 = 3<br />
+  Half Life 3 confirmed?
+points: 40
+flag: "flag{everything's_better_in_groups_of_three}"
