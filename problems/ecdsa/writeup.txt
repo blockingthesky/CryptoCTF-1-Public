@@ -1,0 +1,1 @@
+This is a simple ECDSA challenge where the value of k is re-used. The private key can be recovered from 2 messages and 2 signatures, then the signature can be calculated on your own.
