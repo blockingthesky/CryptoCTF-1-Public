@@ -1,0 +1,13 @@
+name: Multipad
+author: Jacob Magnuson
+category: Cryptrollgraphy
+description: >
+  Howard made some OTP problems, but he 
+  decided they were too easy, so he made 
+  another. But he's an idiot, and this 
+  one's pad has been used billions of 
+  freaking times. You can probably break it.<br />
+  <a href="|multi.pad|">multi.pad</a>
+hint: Howard is an idiot.
+points: 125
+flag: "flag{7he_Harder_th3y_are}"

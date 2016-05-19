@@ -1,0 +1,3 @@
+Decrypt from base 16. The characters represent letters on a phone dialer. Convert to their corresponding digits and go to ascii.
+
+see sol.py
