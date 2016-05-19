@@ -1,1 +1,3 @@
-flag{Q_m4trix_fun}
+flag{s0me_pretty_bad_enCrypt1on}
+
+N=2433

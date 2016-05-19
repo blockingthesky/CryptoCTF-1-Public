@@ -11,4 +11,4 @@ description: >
   <a href="|fibcrypt.py|">fibcrypt.py</a>
 hint: I hear the message is in flag{} format...
 points: 170
-flag: "flag{Q_m4trix_fun}"
+flag: "flag{s0me_pretty_bad_enCrypt1on}"
