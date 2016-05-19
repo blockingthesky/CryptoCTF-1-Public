@@ -9,4 +9,3 @@ while not c.startswith("flag{"):
     c=c[1:]
 
 print c
-print x
