@@ -1,0 +1,3 @@
+Digit-sum each number. They are unique multiples of their corresponding ASCII values.
+
+See: sol.py

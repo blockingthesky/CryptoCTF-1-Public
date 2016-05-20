@@ -1,0 +1,13 @@
+name: Number Fun
+author: Jacob Magnuson
+category: Cryptography
+description: >
+  One sent me these numbers, and was super 
+  excited about them. He told me that they 
+  were part of a problem he made after he 
+  learned about maaaaaath. I love math. 
+  Solve his problem.<br />
+  <a href="|maaaaaath.txt|">maaaaaath.txt</a>
+hint: Some of these numbers are really big...
+points: 120
+flag: "flag{digit_sum_problems_are_actually_my_favorite}"
