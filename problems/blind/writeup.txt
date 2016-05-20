@@ -1,0 +1,4 @@
+1. Paint bucket almost anywhere; the flag will appear.
+2. Paint bucket on a letter; other areas are checkerboarded.
+3. Change all pixels (0,1,0) or (1,0,0) to another color. [see: part3sol.py]
+4. View hex after first IEND.

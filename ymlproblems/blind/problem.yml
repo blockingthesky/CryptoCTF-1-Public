@@ -1,0 +1,18 @@
+name: Blind
+author: Jacob Magnuson
+category: Cryptrollgraphy
+description: >
+  Once upon a time, PlaidCTF happened, 
+  and they had a beautiful website. 
+  However, there was one CTFer who became 
+  exasperated at the design of their 
+  homepage. He made these problems to 
+  express his rage at being unable to 
+  find things he needs. Solve all four 
+  parts to get the flag.<br /> 
+  <a href="|blind.zip|">blind.zip</a>
+hint: >
+  Don't read too much into the description. 
+  Just find the flag.
+points: 95
+flag: "flag{look_to_the_right_to_find_tHree_Dots_dARn_gk}"
