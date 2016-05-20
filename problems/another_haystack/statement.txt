@@ -1,0 +1,3 @@
+Back in the old days, all the hackers communicated with ridiculously complex ciphers and haystacks. This lasted, of course, only as long as the government couldn't break their messages. The subject matter of this haystack must never have been intercepted by government, else the activities being discussed would have been terminated long ago. Do what the dumb NSA was unable to do, and figure out what message lies in this haystack.
+
+HINT: Heh, the NSA is so silly. They get confused by the dumbest things, even linebreaks.

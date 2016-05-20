@@ -1,0 +1,3 @@
+This is a substitution cipher, and the substituted values are massive strings of random characters. Refer to dct.txt for the dictionary.
+
+TODO: sol.py (will show how to find values)

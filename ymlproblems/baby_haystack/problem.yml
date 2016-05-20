@@ -1,0 +1,9 @@
+name: Baby Haystack
+author: Jacob Magnuson
+category: Cryptography
+description: >
+  Find the needle in this haystack.<br />
+  <a href="|baby_haystack|">baby_haystack</a>
+hint: "The needle is in flag{} format."
+points: 25
+flag: "flag{all_haystacks_are_this_easy_right}"

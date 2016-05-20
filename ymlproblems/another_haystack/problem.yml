@@ -1,0 +1,16 @@
+name: Another Haystack
+author: Jacob Magnuson
+category: Cryptography
+description: >
+  Back in the old days, all the hackers communicated with 
+  ridiculously complex ciphers and haystacks. This lasted, 
+  of course, only as long as the government couldn't break 
+  their messages. The subject matter of this haystack must 
+  never have been intercepted by government, else the activities 
+  being discussed would have been terminated long ago. Do what 
+  the dumb NSA was unable to do, and figure out what message 
+  lies in this haystack.<br />
+  <a href="|fat_stack|">fat_stack</a>
+hint: "Heh, the NSA is so silly. They get confused by the dumbest things, even whitespace."
+points: 80
+flag: "flag{defcontwentyfouranonymous}"

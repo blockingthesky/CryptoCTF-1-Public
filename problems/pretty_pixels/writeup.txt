@@ -1,0 +1,1 @@
+Each pixel, zig zagging from the top left, differs from the previous pixel in (R, G, B); they only go up so 254 -> 2 was a change of 4, etc. Sum of differences to ASCII.

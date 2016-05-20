@@ -1,0 +1,14 @@
+name: Pretty Pixels
+author: Jacob Magnuson
+category: Cryptrollgraphy
+description: >
+  Bro, these pixels are like totally tripping me out. 
+  I stand back, bro, and I swear I can see patterns. 
+  All the pretty pixels are, like, bleeding into the 
+  other pixels, bro, it's crazy.<br /> 
+  <a href="|pixels.png|">pixels.png</a>
+hint: >
+  Bro, I swear, it's not how the pixels are as pixels, 
+  bro, it's how they relate to one another. Trippy.
+points: 180
+flag: "flag{cryptrollgraphy_just_gets_better_and_better}"
