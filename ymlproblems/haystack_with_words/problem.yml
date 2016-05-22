@@ -1,0 +1,9 @@
+name: Haystack With Words
+author: Kevin Shen
+category: Cryptrollography
+description: >
+  It's another haystack problem! This time, though, there are only letters. <br />Note: The flag is not in flag{} format. It's just words.<br />
+  <a href="|alltexthaystack.txt|">haystackfullofhay</a>
+hint: "You'll know it when you see it."
+points: 120
+flag: "pandemoniumensuessubsequentlytobamboofirescausingarmageddon"

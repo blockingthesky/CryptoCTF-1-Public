@@ -1,0 +1,2 @@
+write a program, or get really lucky with ctrl+f. i have a proprietary python program that solves it :P
+note: your wordlist must be decently large, 5000 words doesn't work, 10000 does

@@ -1,0 +1,4 @@
+It's another haystack problem! This time, though, there are only letters.
+Note: The flag is not in flag{} format. It's just words.
+
+HINT: You'll know it when you see it.
