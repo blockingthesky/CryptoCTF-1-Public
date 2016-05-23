@@ -1,0 +1,3 @@
+We've intercepted some data in small packets! We were only able to get a N value...
+
+hint: "I-I-It's not what you think its like! Baka!"

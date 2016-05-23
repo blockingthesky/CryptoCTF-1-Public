@@ -1,0 +1,9 @@
+name: Supreme Security
+author: Kevin Shen
+category: Cryptography
+description: >
+  We've intercepted some data in small packets! We were only able to get a N value...<br />
+  <a href="|secure_data|">secure_data</a>
+hint: "I-I-It's not what you think its like! Baka!"
+points: 150
+flag: "flag{schmidt_samoa_is_c0ol}"
