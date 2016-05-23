@@ -1,0 +1,13 @@
+name: Psychic 2
+author: Jacob Magnuson
+category: Cryptography
+description: >
+  Here we have the second installment of 
+  the Psychic Series, wherein I'm way too 
+  <s>Keithy</s> lazy to come up with problem 
+  statements with hints in them. I've attached 
+  a zip with a message in it. Get it.<br />
+  <a href="|psychic2.zip|">psychic2.zip</a>
+hint: ""
+points: 125
+flag: "flag{u_read_my_mind_qwribivywie}"
