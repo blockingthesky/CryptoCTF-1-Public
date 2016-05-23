@@ -8,6 +8,6 @@ description: >
   learned about maaaaaath. I love math. 
   Solve his problem.<br />
   <a href="|maaaaaath.txt|">maaaaaath.txt</a>
-hint: Some of these numbers are really big...
+hint: Some of these numbers is really big...
 points: 120
 flag: "flag{digit_sum_problems_are_actually_my_favorite}"

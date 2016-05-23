@@ -5,9 +5,10 @@ description: >
   Howard made some OTP problems, but he 
   decided they were too easy, so he made 
   another. But he's an idiot, and this 
-  one's pad has been used billions of 
-  freaking times. You can probably break it.<br />
+  one's pad has been used like six billion 
+  freaking times. You can probably break it, 
+  but maybe not what it was used on.<br />
   <a href="|multi.pad|">multi.pad</a>
-hint: Howard is an idiot.
-points: 125
+hint: Howard is an idiot. This isn't even an OTP. OTPs use XOR.
+points: 135
 flag: "flag{7he_Harder_th3y_are}"
