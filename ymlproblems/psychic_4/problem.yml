@@ -1,0 +1,12 @@
+name: Psychic 4
+author: Jacob Magnuson + walrusa
+category: Cryptography
+description: >
+  We're back with Psychic Series' fourth iteration, 
+  wherein I'm way too <s>Keithy</s> lazy to come 
+  up with problem statements with hints in them. 
+  I've attached another message. Decrypt it.<br />
+  <a href="|psychic050801|">psychic050801</a>
+hint: ""
+points: 100
+flag: "flag{not_even_a_good_keyboard_mash_b752bcde}"

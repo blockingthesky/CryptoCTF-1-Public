@@ -1,0 +1,10 @@
+name: Psychic 1
+author: Jacob Magnuson
+category: Cryptography
+description: >
+  <strong style="font-size:22;color:red">This problem had an error and has been updated.</strong><br /><br />
+  Welcome to the Psychic Series, wherein I'm way too <s>Keithy</s> lazy to come up with problem statements with hints in them. I've attached a message. Decrypt it.<br />
+  <a href="|decryptme|">decryptme</a>
+hint: ""
+points: 90
+flag: "flag{color_by_numbers_and_rot_by_primes}"

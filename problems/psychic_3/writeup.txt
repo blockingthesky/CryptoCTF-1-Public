@@ -1,0 +1,3 @@
+Each character of the message is a sum of digits. Sum the first digit of each file for the first chararacter of the message, etc.
+
+SEE: sol.py
