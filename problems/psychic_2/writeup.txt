@@ -1,0 +1,3 @@
+The Nth character is rotted by the Nth prime - the first character is rotted by 2, the second by 3, the third by 5, the fourth by 7, etc.
+
+See: sol.py
