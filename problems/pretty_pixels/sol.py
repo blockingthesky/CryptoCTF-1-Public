@@ -32,5 +32,10 @@ def dif(pixel_a, pixel_b):
     
 # Find the difference between each pixel.
 chars = [dif(pixels[t], pixels[t+1]) for t in range(len(pixels)-1)]
-# Print corresponding chars
+# Print message
 print ''.join(chr(o) for o in chars)
+
+# Create flag from chars
+fleg = ''.join(chr(o) for o in chars)
+# Print that shit
+print fleg[fleg.index('flag{'):fleg.index('}') + 1]
