@@ -1,0 +1,3 @@
+The Nth character is rotted by the Nth item of OEIS A050801.
+
+See: sol.py

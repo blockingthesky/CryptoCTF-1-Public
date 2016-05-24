@@ -1,0 +1,60 @@
+Depth First Search
+
+#include <stdlib.h>
+
+struct node
+{
+ struct node* children;
+ char curchar;
+};
+
+int main(int argc, char** argv)
+{
+ struct node* d0n1 = malloc(sizeof(struct node)*1);
+ struct node* d1n1 = malloc(sizeof(struct node)*4);
+ struct node* d2n1 = malloc(sizeof(struct node)*3);
+ struct node* d2n2 = malloc(sizeof(struct node)*2);
+ struct node* d2n3 = malloc(sizeof(struct node)*2);
+ struct node* d3n1 = malloc(sizeof(struct node)*2);
+ struct node* d3n2 = malloc(sizeof(struct node)*1);
+ struct node* d3n3 = malloc(sizeof(struct node)*1);
+ struct node* d4n1 = malloc(sizeof(struct node)*1);
+ 
+ d0n1[0].curchar = 'k';
+ d0n1[0].children = d1n1;
+ d1n1[0].curchar = 'z';
+ d1n1[0].children = d2n1;
+ d1n1[1].curchar = '6';
+ d1n1[1].children = d2n2;
+ d1n1[2].curchar = 'b';
+ d1n1[2].children = 0;
+ d1n1[3].curchar = '1';
+ d1n1[3].children = d2n3;
+ d2n1[0].curchar = 'p';
+ d2n1[0].children = 0;
+ d2n1[1].curchar = 'r';
+ d2n1[1].children = d3n1;
+ d2n1[2].curchar = '8';
+ d2n1[2].children = d3n2;
+ d2n2[0].curchar = 'v';
+ d2n2[0].children = 0;
+ d2n2[1].curchar = '4';
+ d2n2[1].children = d3n3;
+ d2n3[0].curchar = 'b';
+ d2n3[0].children = 0;
+ d2n3[1].curchar = 'h';
+ d2n3[1].children = 0;
+ d3n1[0].curchar = '1';
+ d3n1[0].children = d4n1;
+ d3n1[1].curchar = 'd';
+ d3n1[1].children = 0;
+ d3n2[0].curchar = '5';
+ d3n2[0].children = 0;
+ d3n3[0].curchar = 'n';
+ d3n3[0].children = 0;
+ d4n1[0].curchar = '9';
+ d4n1[0].children = 0;
+ // flag{kzpr19d856v4nb1bn}
+ 
+ return 0;
+}

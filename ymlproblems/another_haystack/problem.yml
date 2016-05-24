@@ -11,7 +11,7 @@ description: >
   the dumb NSA was unable to do, and figure out what message 
   lies in this haystack.<br />
   Ctrl-F will serve you well.<br />
-  <a href="|fat_stack|">fat_stack</a>
+  <a href="|another_haystack|">another_haystack</a>
 hint: "Heh, the NSA is so silly. They get confused by the dumbest things, even whitespace."
-points: 80
+points: 180
 flag: "flag{defcontwentyfouranonymous}"

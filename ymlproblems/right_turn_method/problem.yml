@@ -1,0 +1,10 @@
+name: Right Turn Method
+author: Nicholas Pipitone
+category: Reversing/Cryptography
+description: >
+  Someone gave us a maze to drive through, 
+  but our steering wheel only turns right. 
+  Can you figure out what we passed?<br />
+  <a href="|maze|">maze</a>
+points: 120
+flag: "flag{kzpr19d856v4nb1bn}"
