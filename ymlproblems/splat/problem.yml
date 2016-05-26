@@ -1,0 +1,9 @@
+name: Splatter
+author: Jacob Magnuson
+category: Cryptography
+description: >
+  Here's another pixel problem.<br />
+  <a href="|splatter.png|">splatter.png</a>
+hint: It is 2:39 AM. There is no time to write hints.
+points: 105
+flag: "flag{straight_substitution_is_for_boring_people}"

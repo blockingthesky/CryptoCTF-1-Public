@@ -1,0 +1,1 @@
+flag{straight_substitution_is_for_boring_people}

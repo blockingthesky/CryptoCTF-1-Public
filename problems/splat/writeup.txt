@@ -1,0 +1,3 @@
+This is a substitution cipher, where one 5x5 block is a letter. There are 26 colors assigned to 26 letters. Read top to bottom, left to right.
+
+SEE: sol.py

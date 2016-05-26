@@ -1,0 +1,12 @@
+name: Useless Dots
+author: Jacob Magnuson
+category: Cryptography
+description: >
+  I've given up on life; everything is useless. 
+  CTFs are useless. Computers are useless. Pictures 
+  are useless. Even pixels are useless. I don't want 
+  them anymore. This competitions is ridiculous.<br />
+  <a href="|useless.png|">useless.png</a>
+hint: Don't you just wish the random pixel problems would go away?
+points: 135
+flag: "flag{should_have_been_psy}"

@@ -1,0 +1,3 @@
+Even pixels are useless, you say? Then lets remove them all. If (R + G + B) % 2 == 0, remove the pixel.
+
+SEE: sol.py
