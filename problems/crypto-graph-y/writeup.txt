@@ -1,0 +1,5 @@
+graph.dat describes a directed graph, where each line "A B" in the file describes an edge from A to B.
+
+queries.txt contains a series of queries on the graph in the form "A B". Assign queries where a path exists from A to B a 1, and assign a 0 otherwise. Convert from binary to ASCII.
+
+SEE: sol.py

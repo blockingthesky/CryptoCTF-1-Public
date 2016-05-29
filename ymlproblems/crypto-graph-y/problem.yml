@@ -1,0 +1,12 @@
+name: Crypto-graphy-y
+author: Jacob Magnuson
+category: Cryptography
+description: >
+  My nerd friend just finished a graph theory course, and 
+  he's really excited about it. He's hidden a message in 
+  these two files. Can you figure out what it is?<br />
+  <a href="|graph.dat|">graph.dat</a><br />
+  <a href="|queries.txt|">queries.txt</a>
+hint: He mentioned to me that the graph is directed, and has 1000 nodes.
+points: 150
+flag: "flag{who_knew_nodes_and_edges_could_be_so_cool}"
