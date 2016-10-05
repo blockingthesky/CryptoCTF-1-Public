@@ -12,7 +12,7 @@ def r(a, b):
 def gentag():
     rettag = hex(r(0, 16**8 - 1)).replace('L', '')[2:].zfill(8)
     if rettag in tags:
-        print "go buy a lottery ticket, sheit?"
+        print "go buy a lottery ticket, shiet?"
         return gentag()
     else:
         tags.append(rettag)
